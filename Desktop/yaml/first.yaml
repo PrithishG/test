@@ -1,0 +1,26 @@
+name : test
+age : 26
+server :
+  name : "testing"
+  capacity : 50GB
+
+list_of_Servers :
+  - server_1 :
+    name : "ec2"
+    capacity : 20GB
+  - server_2 :
+    name : "gcp"
+    capacity : "40GB"
+
+social-media:
+  - Github-test
+  - linkedin-test
+  - workspace-test
+    
+testing : |
+  this is 
+  a multiline
+  string
+  for testing
+
+
